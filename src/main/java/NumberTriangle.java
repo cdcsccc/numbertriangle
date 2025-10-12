@@ -41,15 +41,18 @@ public class NumberTriangle {
     }
 
     public void setLeft(NumberTriangle left) {
+
         this.left = left;
     }
 
 
     public void setRight(NumberTriangle right) {
+
         this.right = right;
     }
 
     public int getRoot() {
+
         return root;
     }
 
